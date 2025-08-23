@@ -109,7 +109,7 @@
       clothingVisuals:
         head:
         - state: equipped-HEAD-sealed
-        - state: equipped-HEAD-sealed-unshaded
+        - state: equipped-HEAD-sealed-unshaded # Omu, fix unshaded layer being missing
           shader: unshaded
 
 - type: entity
