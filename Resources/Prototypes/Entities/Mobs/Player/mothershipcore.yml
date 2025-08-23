@@ -142,20 +142,23 @@
       Unsexed: UnisexSiliconXenoborg
     wilhelmProbability: 0
   - type: IntrinsicRadioReceiver
+  - type: CollectiveMind # Omu, binary is collectivemind
+    defaultChannel: Binary
+    channels:
+    - Binary
   - type: IntrinsicRadioTransmitter
     channels:
     - Mothership
     - Xenoborg
-    - Binary
+#    - Binary # Omu, binary is collectivemind
   - type: ActiveRadio
     channels:
     - Mothership
     - Xenoborg
-    - Binary
+#    - Binary # Omu, binary is collectivemind
   - type: XenoborgMothership
   - type: Tag
     tags:
-    - SiliconEmotes
     - CanPilot
     - Structure
   - type: Inventory

@@ -2008,10 +2008,6 @@
         {
             "name": "xenorobot",
             "directions": 4
-        },
-        {
-            "name": "wizard_key",
-            "directions": 4
         }
     ]
 }

@@ -1545,6 +1545,7 @@
     - state: xenoborg_stealth
     - state: icon-xenoborg-cloak2
   - type: ItemBorgModule
+    moduleId: XenoborgSuperCloakDevice
     items:
     - SuperCloakingDevice
   - type: BorgModuleIcon
