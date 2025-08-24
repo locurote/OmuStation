@@ -39,7 +39,7 @@
 
 - type: nameIdentifierGroup
   id: Xenoborg
-  format: name-identifier-format-xenoborg
+  prefix: Xi # Omu, "format:" does not work here, so we use "prefix:" instead.
   minValue: 1000
   maxValue: 9999
 

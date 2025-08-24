@@ -1788,7 +1788,7 @@
     - map: [ "enum.WiresVisualLayers.MaintenancePanel" ]
       state: generic_panel_open
   - type: RoboticsConsole
-    allowBorgControl: false
+#     allowBorgControl: false # Omu, this doesnt exist here.
     radioChannel: Xenoborg
   - type: ActiveRadio
     channels:
