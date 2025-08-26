@@ -61,3 +61,9 @@ Entries:
       message: Added Veteran CMO Splashproof Jacket.
   id: 7
   time: '2025-08-26T03:28:14.0000000+00:00'
+- author: Orion-416
+  changes:
+    - type: Fix
+      message: Fixed shadowkin's leg being transparent
+  id: 8
+  time: '2025-08-26T04:10:03.0000000+00:00'
