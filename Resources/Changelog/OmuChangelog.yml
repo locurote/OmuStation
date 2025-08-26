@@ -24,7 +24,9 @@ Entries:
     - type: Add
       message: Added a new Central Command Shuttle! The CC-557 "Angel"!
     - type: Add
-      message: Added a new Central Command Intern role, stamp, lanyard, and fax machine!
+      message: >-
+        Added a new Central Command Intern role, stamp, lanyard, and fax
+        machine!
     - type: Tweak
       message: You can now use Lanyards as IDs!
   id: 3
@@ -51,3 +53,11 @@ Entries:
       message: Added sec key to BSO's headset.
   id: 6
   time: '2025-08-25T22:06:18.0000000+00:00'
+- author: Cygnye
+  changes:
+    - type: Add
+      message: Added Veteran CMO Beret.
+    - type: Add
+      message: Added Veteran CMO Splashproof Jacket.
+  id: 7
+  time: '2025-08-26T03:28:14.0000000+00:00'
