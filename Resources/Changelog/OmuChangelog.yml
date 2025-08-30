@@ -145,3 +145,9 @@ Entries:
       message: Added the Centcomm Direggtor
   id: 17
   time: '2025-08-30T02:41:10.0000000+00:00'
+- author: Cygnye
+  changes:
+    - type: Add
+      message: Logos!!!
+  id: 18
+  time: '2025-08-30T20:45:17.0000000+00:00'
