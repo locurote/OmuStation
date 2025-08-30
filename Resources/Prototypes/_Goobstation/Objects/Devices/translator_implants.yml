@@ -44,6 +44,7 @@
       - Monkey
       - Kobold
       - SpaceItalian
+      - Cheval
     understood:
       - Eldritch
       - Chittin
@@ -76,7 +77,6 @@
       - Kobold
       - SpaceItalian
       - Cheval
-
 
 - type: entity
   parent: BaseSubdermalImplant
