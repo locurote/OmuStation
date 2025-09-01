@@ -39,6 +39,10 @@
   - type: Tag
     tags:
     - WhitelistChameleon
+    - PlasmamanSafe
+  - type: IgniteFromGasImmunity
+    parts:
+    - Head
   - type: Armor
     coverage:
     - Head
@@ -138,7 +142,7 @@
     energy: 2
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -246,7 +250,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -340,7 +344,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -419,7 +423,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -501,7 +505,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -597,7 +601,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -686,7 +690,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
@@ -788,7 +792,7 @@
     energy: 3
     mask: /Textures/Effects/LightMasks/cone.png
     autoRot: true
-    netsync: false
+    netsync: true
   - type: HandheldLight
     addPrefix: true
     blinkingBehaviourId: blinking
