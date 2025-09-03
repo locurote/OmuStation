@@ -243,3 +243,13 @@ Entries:
       message: Turrets can now be set to whitelist CentComm IDs
   id: 29
   time: '2025-09-03T23:35:35.0000000+00:00'
+- author: harryhulse12-alt
+  changes:
+    - type: Tweak
+      message: Adjusted Secret+ weightings, less chaos!
+    - type: Remove
+      message: Removed Revenant from spawning midround without Ninja.
+    - type: Remove
+      message: Removed Changeling and Heretics from midround spawn.
+  id: 30
+  time: '2025-09-03T23:50:10.0000000+00:00'
