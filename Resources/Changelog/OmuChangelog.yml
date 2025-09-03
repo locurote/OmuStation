@@ -229,3 +229,11 @@ Entries:
       message: Director loadout!
   id: 27
   time: '2025-09-03T06:00:31.0000000+00:00'
+- author: Diggy0
+  changes:
+    - type: Add
+      message: Most markings from ADT, along with two new hairstyles.
+    - type: Tweak
+      message: Some of the shadowkin overlays didn't have glow, now they do.
+  id: 28
+  time: '2025-09-03T23:34:42.0000000+00:00'
