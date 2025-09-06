@@ -265,3 +265,11 @@ Entries:
       message: Tajara can now be any color.
   id: 32
   time: '2025-09-06T09:38:10.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Terminus is back to being Oni only.
+    - type: Tweak
+      message: Terminus can now function as a crowbar again
+  id: 33
+  time: '2025-09-06T17:44:21.0000000+00:00'
