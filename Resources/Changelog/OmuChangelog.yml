@@ -299,3 +299,13 @@ Entries:
         them.
   id: 36
   time: '2025-09-07T16:57:23.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: added A new pride mantle, and a progress pride cape
+    - type: Add
+      message: Pride scarfs and cloaks can now be gotten in the loadout
+    - type: Tweak
+      message: Pridevend can be restocked
+  id: 37
+  time: '2025-09-07T20:36:31.0000000+00:00'
