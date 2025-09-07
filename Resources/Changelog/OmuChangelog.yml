@@ -302,10 +302,12 @@ Entries:
 - author: CliveOcelot
   changes:
     - type: Add
-      message: added A new pride mantle, and a progress pride cape
+      message: Added the ability for CentComm shuttles to FTL to CC.
     - type: Add
+      message: Added a new pride mantle, and a progress pride cape
+    - type: Tweak
       message: Pride scarfs and cloaks can now be gotten in the loadout
     - type: Tweak
-      message: Pridevend can be restocked
+      message: Pridevend can be restocked.
   id: 37
   time: '2025-09-07T20:36:31.0000000+00:00'
