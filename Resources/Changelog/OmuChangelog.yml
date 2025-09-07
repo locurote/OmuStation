@@ -311,3 +311,13 @@ Entries:
       message: Pridevend can be restocked.
   id: 37
   time: '2025-09-07T20:36:31.0000000+00:00'
+- author: Diggy0
+  changes:
+    - type: Remove
+      message: Removed 4th wall stuff from ion laws that was added by Goobstation
+    - type: Tweak
+      message: >-
+        Service borgs no longer under clown lawset, now they're running
+        crewsimov.
+  id: 38
+  time: '2025-09-07T20:56:41.0000000+00:00'
