@@ -273,3 +273,9 @@ Entries:
       message: Terminus can now function as a crowbar again
   id: 33
   time: '2025-09-06T17:44:21.0000000+00:00'
+- author: CometVoid
+  changes:
+    - type: Tweak
+      message: Rules have been changed and updated to better fit OmuStation!
+  id: 34
+  time: '2025-09-07T02:04:44.0000000+00:00'
