@@ -291,3 +291,11 @@ Entries:
         other, and announcing the names of the headrevs.
   id: 35
   time: '2025-09-07T09:10:14.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: >-
+        Fixed flashes showing the headrev popup when it is not the headrev using
+        them.
+  id: 36
+  time: '2025-09-07T16:57:23.0000000+00:00'
