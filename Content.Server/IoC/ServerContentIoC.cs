@@ -243,11 +243,11 @@ namespace Content.Server.IoC
             IoCManager.Register<ConnectionManager>();
             IoCManager.Register<MultiServerKickManager>();
             IoCManager.Register<CVarControlManager>();
-            IoCManager.Register<LastRolledAntagManager>(); // Goobstation - antag pity
-            IoCManager.Register<LinkAccountManager>(); // RMC - Patreon
-
             IoCManager.Register<DiscordLink>();
             IoCManager.Register<DiscordChatLink>();
+
+            IoCManager.Register<LastRolledAntagManager>(); // Goobstation - antag pity
+            IoCManager.Register<LinkAccountManager>(); // RMC - Patreon
         }
     }
 }
