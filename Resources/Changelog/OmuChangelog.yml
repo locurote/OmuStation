@@ -279,3 +279,15 @@ Entries:
       message: Rules have been changed and updated to better fit OmuStation!
   id: 34
   time: '2025-09-07T02:04:44.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Add
+      message: Ported Funkystation's rev rework
+    - type: Add
+      message: Headrevs can now create and use revolutionary flashbangs
+    - type: Add
+      message: >-
+        Headrevs can now declare "Open Revolt", allowing normal revs to see each
+        other, and announcing the names of the headrevs.
+  id: 35
+  time: '2025-09-07T09:10:14.0000000+00:00'
