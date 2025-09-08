@@ -328,6 +328,12 @@ Entries:
   id: 39
   time: '2025-09-07T23:48:23.0000000+00:00'
 - author: MarkerWicker
-  changes: []
+  changes:
+    - type: Tweak
+      message: The traits system has been reworked. Traits now have a points cost, shared across all trait categories.
+    - type: Tweak
+      message: Traits have been unselected during the rework, you will have to rebuild your character.
+    - type: Tweak
+      message: Traits can also have requirements; traits with unmet requirements will be greyed out, and requirements can be viewed by hovering your mouse over the trait.
   id: 40
   time: '2025-09-08T00:42:22.0000000+00:00'
