@@ -378,3 +378,13 @@ Entries:
         time.
   id: 42
   time: '2025-09-08T23:36:13.0000000+00:00'
+- author: GNUtopia
+  changes:
+    - type: Tweak
+      message: Cryoxadone is stronger and has double effect on corpses
+    - type: Tweak
+      message: Necrosol is stronger and has double effect on corpses
+    - type: Tweak
+      message: Opporozidone is less expensive to make
+  id: 43
+  time: '2025-09-08T23:43:03.0000000+00:00'
