@@ -332,8 +332,33 @@
           damage:
             groups: # Goobstation - Cryo rebalance
               Airloss: -3
-              Brute: -3
-              Burn: -3
+              Brute: -4.5 # Omu changes start
+              Burn: -6
+        - !type:HealthChange # Double effect on corpses
+          conditions:
+          - !type:Temperature
+            max: 213.0
+          - !type:MobStateCondition
+            mobstate: Dead
+          scaleByTemperature:
+            min: 100.0
+            max: 213.0
+            scale: 1.6
+          damage:
+            groups:
+              Airloss: -3
+              Brute: -4.5
+              Burn: -6
+        - !type:ModifyBloodLevel
+          conditions:
+          - !type:Temperature
+            max: 213.0
+          amount: 8
+        - !type:ModifyBleedAmount
+          conditions:
+          - !type:Temperature
+            max: 213.0
+          amount: -1
 
 - type: reagent
   id: Doxarubixadone
@@ -1569,11 +1594,6 @@
   metabolisms:
     Medicine:
       effects:
-        - !type:ModifyBloodLevel # Goobstation - Cryo rebalance
-          conditions:
-          - !type:Temperature
-            max: 213.0
-          amount: 10
         - !type:HealthChange
           conditions:
           - !type:Temperature
@@ -1584,10 +1604,36 @@
             scale: 1.6
           damage: # Goobstation - Cryo rebalance
             groups:
-              Airloss: -10.0
-              Brute: -5.0
-              Burn: -5.0
+              Airloss: -5.0 # Omu changes start
+              Brute: -7.5
+              Burn: -10
               Toxin: -5.0
+        - !type:HealthChange # Double effect on corpses
+          conditions:
+          - !type:Temperature
+            max: 213.0
+          - !type:MobStateCondition
+            mobstate: Dead
+          scaleByTemperature:
+            min: 100.0
+            max: 213.0
+            scale: 1.6
+          damage:
+            groups:
+              Airloss: -5.0
+              Brute: -7.5
+              Burn: -10
+              Toxin: -5.0
+        - !type:ModifyBloodLevel # Goobstation - Cryo rebalance (Omu - moved this for formatting)
+          conditions:
+          - !type:Temperature
+            max: 213.0
+          amount: 10
+        - !type:ModifyBleedAmount
+          conditions:
+          - !type:Temperature
+            max: 213.0
+          amount: -1.5 # Omu changes end
 
 - type: reagent
   id : Aloxadone
