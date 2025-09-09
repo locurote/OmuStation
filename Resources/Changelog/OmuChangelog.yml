@@ -418,3 +418,9 @@ Entries:
       message: Added EORG and Shuttlebombing Rules.
   id: 47
   time: '2025-09-09T21:01:54.0000000+00:00'
+- author: NotActuallyMarty
+  changes:
+    - type: Add
+      message: Added Glacier port from DV
+  id: 48
+  time: '2025-09-09T22:12:56.0000000+00:00'
