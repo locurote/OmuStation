@@ -49,7 +49,7 @@ jobs:
             "S: Needs Second Approval"
 
       - name: Add Second Approval Requirement on Approval
-        if: steps.check-approvals.outputs.approvals = 1
+        if: steps.check-approvals.outputs.approvals == 1
         uses: actions-ecosystem/action-add-labels@v1
         with:
           labels: |
@@ -57,7 +57,7 @@ jobs:
             "S: Needs Review"
 
       - name: Remove Other Labels on Second Approval Requirement
-        if: steps.check-approvals.outputs.approvals = 1
+        if: steps.check-approvals.outputs.approvals == 1
         uses: actions-ecosystem/action-remove-labels@v1
         with:
           labels: "S: Approved"
