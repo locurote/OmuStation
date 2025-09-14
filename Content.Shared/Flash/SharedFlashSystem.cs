@@ -217,10 +217,7 @@ public abstract class SharedFlashSystem : EntitySystem
             if (used != null)
                 RaiseLocalEvent(used.Value, ref ev);
 
-            // _popup.PopupEntity(Loc.GetString("flash-component-user-head-rev", // Omu, this shouldn't be enabled, as it is shown in a different system instead
-            //         ("victim", Identity.Entity(target, EntityManager))), target);
-
-        }  // funkystation end // Omu I dont even know why im moving the popup comment
+        }  // funkystation end
     }
 
     /// <summary>
