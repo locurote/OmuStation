@@ -341,7 +341,7 @@ public sealed class RevolutionaryRuleSystem : GameRuleSystem<RevolutionaryRuleCo
 
         var alwaysConvertible = HasComp<AlwaysRevolutionaryConvertibleComponent>(ev.Target);
 
-        if (!_mind.TryGetMind(ev.Target, out var mindId, out var mind) && !alwaysConvertible)
+        if (!_mind.TryGetMind(ev.Target, out var mindId, out var mind))
             return;
 
         if (HasComp<RevolutionaryComponent>(ev.Target) ||
