@@ -450,3 +450,9 @@ Entries:
       message: Armor Coverage is much more concise.
   id: 52
   time: '2025-09-20T13:57:50.0000000+00:00'
+- author: Thesia000
+  changes:
+    - type: Remove
+      message: temporarly removed glacier from the  map rotation
+  id: 53
+  time: '2025-09-21T19:48:36.0000000+00:00'
