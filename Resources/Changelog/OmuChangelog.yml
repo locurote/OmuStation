@@ -529,3 +529,11 @@ Entries:
         Reports
   id: 63
   time: '2025-09-27T00:55:22.0000000+00:00'
+- author: Timfa2112
+  changes:
+    - type: Fix
+      message: >-
+        Fixed the way messages are chunked in the station report. It works
+        properly this time, I swear. 
+  id: 64
+  time: '2025-09-27T17:55:30.0000000+00:00'
