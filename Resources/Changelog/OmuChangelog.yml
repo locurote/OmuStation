@@ -522,6 +522,8 @@ Entries:
 - author: Timfa2112
   changes:
     - type: Fix
+      message: Fixed clowns being unable to use the Dislippler
+    - type: Fix
       message: >-
         Fixed [color] tags not being formatted properly in Discord Station
         Reports
