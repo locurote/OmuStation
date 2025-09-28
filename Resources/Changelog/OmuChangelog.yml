@@ -537,3 +537,9 @@ Entries:
         properly this time, I swear. 
   id: 64
   time: '2025-09-27T17:55:30.0000000+00:00'
+- author: Mike32oz
+  changes:
+    - type: Tweak
+      message: 'Aghost Inventory bag '
+  id: 65
+  time: '2025-09-28T09:09:44.0000000+00:00'
