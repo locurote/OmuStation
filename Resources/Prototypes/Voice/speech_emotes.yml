@@ -405,10 +405,9 @@
   whitelist: #Goobstation - IPCs
     tags:
       - HarpyEmotes # Omu, allow harpy to buzz
+      - SiliconEmotes
     components:
-    - Silicon
-    tags:
-    - SiliconEmotes
+      - Silicon
   chatTriggers:
     - buzzing
     - buzz
@@ -477,11 +476,10 @@
   whitelist: #Goobstation - IPCs, C4 sentience
     tags:
       - HarpyEmotes # Omu, allow harpy to beep
+      - SiliconEmotes
     components:
     - Silicon
     - Explosive
-    tags:
-    - SiliconEmotes
   chatTriggers:
     - beep
     - beeps
@@ -497,10 +495,9 @@
   whitelist: #Goobstation - IPCs
     tags:
       - HarpyEmotes # Omu, allow harpy to chime
+      - SiliconEmotes
     components:
     - Silicon
-    tags:
-    - SiliconEmotes
   chatTriggers:
     - chime
     - chimes
@@ -516,10 +513,9 @@
   whitelist: #Goobstation - IPCs
     tags:
       - HarpyEmotes # Omu, allow harpy to buzztwo
+      - SiliconEmotes
     components:
     - Silicon
-    tags:
-    - SiliconEmotes
   chatTriggers:
     - buzztwice
     - buzzstwice
@@ -541,10 +537,9 @@
   whitelist: #Goobstation - IPCs
     tags:
       - HarpyEmotes # Omu, allow harpy to ping
+      - SiliconEmotes
     components:
     - Silicon
-    tags:
-    - SiliconEmotes
   chatTriggers:
     - ping
     - pings
