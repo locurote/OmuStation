@@ -571,3 +571,17 @@ Entries:
         uplink
   id: 69
   time: '2025-09-30T19:54:20.0000000+00:00'
+- author: Tuerk
+  changes:
+    - type: Add
+      message: revolvers can now pistol-whip
+    - type: Tweak
+      message: >-
+        Bandolier's can now also store 8 Gauge shells ( used to be only 12 Gauge
+        )
+    - type: Fix
+      message: >-
+        Warden's duty case now has working fluff. Also fixes capitalization of
+        the other duty cases.
+  id: 70
+  time: '2025-09-30T19:55:20.0000000+00:00'
