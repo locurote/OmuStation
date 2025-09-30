@@ -561,3 +561,13 @@ Entries:
       message: Cosmic blank now has a hidden do-after.
   id: 68
   time: '2025-09-30T19:53:26.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Remove
+      message: Removed the shrapnel grenade from syndie uplink.
+    - type: Tweak
+      message: >-
+        Changed the price of the shrapnel grenade from 4tc to 20tc in the nukie
+        uplink
+  id: 69
+  time: '2025-09-30T19:54:20.0000000+00:00'
