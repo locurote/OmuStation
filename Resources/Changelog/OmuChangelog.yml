@@ -594,3 +594,13 @@ Entries:
         toggled in their direction.
   id: 71
   time: '2025-10-01T01:45:47.0000000+00:00'
+- author: GNUtopia
+  changes:
+    - type: Tweak
+      message: Thieving trait no longer hides popups
+    - type: Add
+      message: >-
+        Characters can take the Frisky trait which allows them to see pockets in
+        the strip menu
+  id: 72
+  time: '2025-10-01T02:48:48.0000000+00:00'
