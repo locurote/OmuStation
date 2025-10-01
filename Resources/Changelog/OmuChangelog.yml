@@ -604,3 +604,12 @@ Entries:
         the strip menu
   id: 72
   time: '2025-10-01T02:48:48.0000000+00:00'
+- author: MarkerWicker
+  changes:
+    - type: Fix
+      message: >-
+        Trait-categories with category-specific points now correctly show the
+        points taken in that category, rather than the sum of category-specific
+        points across all categories.
+  id: 73
+  time: '2025-10-01T02:54:52.0000000+00:00'
