@@ -627,3 +627,11 @@ Entries:
       message: Fixed SecretPlus failing to select antags properly
   id: 75
   time: '2025-10-02T18:39:21.0000000+00:00'
+- author: Tuerk
+  changes:
+    - type: Add
+      message: >-
+        New HUD and Glasses that lets RDs (or a sneaky thief) communicate in the
+        binary hivemind. Found in RDs locker and in their loadout.
+  id: 76
+  time: '2025-10-05T10:58:06.0000000+00:00'
