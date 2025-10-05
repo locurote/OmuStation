@@ -635,3 +635,13 @@ Entries:
         binary hivemind. Found in RDs locker and in their loadout.
   id: 76
   time: '2025-10-05T10:58:06.0000000+00:00'
+- author: MarkerWicker
+  changes:
+    - type: Add
+      message: >-
+        "Cybernetic Beasts", a subset of Vulpkanin, have been introduced to the
+        game. Cybernetic Beasts can be selected as a trait. Beasts come with a
+        visor, called a "mantle", which provides some benefit to the beast, but
+        comes with opportunity costs, and may be a target for stealing.
+  id: 77
+  time: '2025-10-05T15:02:53.0000000+00:00'
