@@ -667,3 +667,9 @@ Entries:
       message: Added the prisoner role. Security beware! (Not mapped yet, but soon:tm:)
   id: 80
   time: '2025-10-09T00:42:11.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Remove
+      message: Removed DuoAbductors from roundstart, as the rule does not work.
+  id: 81
+  time: '2025-10-09T00:44:33.0000000+00:00'
