@@ -419,6 +419,7 @@
   - ClothingFormalHoPCoat # Omu
   - ClothingFormalHoPJacket # Omu
   - ClothingFormalHoPDress # Omu
+  - HoPLongcoat #goob
 
 # Civilian
 - type: loadoutGroup
@@ -1178,6 +1179,7 @@
   - ResearchDirectorLabCoat
   - ResearchDirectorWintercoat
   - LongScienceCoat # OmuStation
+  - ResearchDirectorLabCoatPurple #goob
 
 - type: loadoutGroup
   id: ResearchDirectorShoes
@@ -1332,6 +1334,7 @@
   loadouts:
   - WardenCoat
   - WardenArmoredWinterCoat
+  - WardenCoatBlue #goob
 
 - type: loadoutGroup
   id: SecurityHead
