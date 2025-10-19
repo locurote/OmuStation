@@ -783,3 +783,15 @@ Entries:
         personnel have it now).
   id: 92
   time: '2025-10-19T00:14:59.0000000+00:00'
+- author: CerberusWolfie
+  changes:
+    - type: Tweak
+      message: Transit Prisoner has been raised to 2 job slots on Saltern.
+    - type: Tweak
+      message: Transit Prisoner has been limited to 2 job slots on most maps.
+    - type: Tweak
+      message: >-
+        Transit Prisoner has been limited to 3 job slots on Oasis, FlandHighPop,
+        and Submarine.
+  id: 93
+  time: '2025-10-19T00:15:36.0000000+00:00'
