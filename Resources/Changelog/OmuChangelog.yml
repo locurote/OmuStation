@@ -858,6 +858,14 @@ Entries:
   id: 102
   time: '2025-10-21T04:41:02.0000000+00:00'
 - author: Cygnye
-  changes: []
+  changes:
+    - type: Add
+      message: Added six pack marking to Harpy.
   id: 103
   time: '2025-10-21T04:46:05.0000000+00:00'
+- author: Fish-Fork
+  changes:
+    - type: Add
+      message: Added the ability for Clownspiders to inject Crapotoxin on bite.
+  id: 104
+  time: '2025-10-21T04:46:15.0000000+00:00'
