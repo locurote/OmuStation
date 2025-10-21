@@ -825,3 +825,9 @@ Entries:
       message: The Geese have been put down in Upstream.
   id: 97
   time: '2025-10-21T02:07:33.0000000+00:00'
+- author: jellygato
+  changes:
+    - type: Fix
+      message: Adjusted some YAML comments to fit YAML formatting best practices.
+  id: 98
+  time: '2025-10-21T02:09:03.0000000+00:00'
