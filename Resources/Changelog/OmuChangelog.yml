@@ -857,3 +857,7 @@ Entries:
       message: Allowed AI to set whitelists on their turrets properly.
   id: 102
   time: '2025-10-21T04:41:02.0000000+00:00'
+- author: Cygnye
+  changes: []
+  id: 103
+  time: '2025-10-21T04:46:05.0000000+00:00'
