@@ -884,3 +884,11 @@ Entries:
         the trait.
   id: 105
   time: '2025-10-21T05:16:15.0000000+00:00'
+- author: Richard Blonski
+  changes:
+    - type: Tweak
+      message: >-
+        Initial Antag and Chaos scores in Medium Plus rounds now consistently
+        scale based on the number of ready players.
+  id: 106
+  time: '2025-10-21T05:25:37.0000000+00:00'
