@@ -869,3 +869,18 @@ Entries:
       message: Added the ability for Clownspiders to inject Crapotoxin on bite.
   id: 104
   time: '2025-10-21T04:46:15.0000000+00:00'
+- author: MarkerWicker
+  changes:
+    - type: Tweak
+      message: >-
+        Cybernetic mantles no longer come with flash protection for jobs where
+        it is not required.
+    - type: Tweak
+      message: >-
+        Cybernetic mantles also now always provide armour and pressure
+        protection to the wearer, regardless of whether the mantle is worn by a
+        cybernetic beast or not. This should hopefully make the behaviour of the
+        mantle more predictable for anybody who isn't intimately familiar with
+        the trait.
+  id: 105
+  time: '2025-10-21T05:16:15.0000000+00:00'
