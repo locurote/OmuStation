@@ -892,3 +892,13 @@ Entries:
         scale based on the number of ready players.
   id: 106
   time: '2025-10-21T05:25:37.0000000+00:00'
+- author: dootythefrooty
+  changes:
+    - type: Fix
+      message: Removing Martial arts belts will remove the automatic parrying.
+    - type: Fix
+      message: >-
+        Learned Martial Arts will not be forgotten when removing martial arts
+        belts.
+  id: 107
+  time: '2025-10-21T05:40:48.0000000+00:00'
