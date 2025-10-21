@@ -845,3 +845,9 @@ Entries:
       message: Dot.
   id: 100
   time: '2025-10-21T04:37:53.0000000+00:00'
+- author: Sarahon
+  changes:
+    - type: Tweak
+      message: Blacklist sec, bso and command from anxiety
+  id: 101
+  time: '2025-10-21T04:39:05.0000000+00:00'
