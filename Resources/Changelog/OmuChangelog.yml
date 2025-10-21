@@ -837,3 +837,11 @@ Entries:
       message: 'Fixed Irelander using the incorrect damage type when wielded '
   id: 99
   time: '2025-10-21T04:37:13.0000000+00:00'
+- author: RadsammyT
+  changes:
+    - type: Add
+      message: A new IPC Screen has been added.
+    - type: Add
+      message: Dot.
+  id: 100
+  time: '2025-10-21T04:37:53.0000000+00:00'
