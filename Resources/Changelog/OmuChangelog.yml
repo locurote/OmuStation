@@ -851,3 +851,9 @@ Entries:
       message: Blacklist sec, bso and command from anxiety
   id: 101
   time: '2025-10-21T04:39:05.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Tweak
+      message: Allowed AI to set whitelists on their turrets properly.
+  id: 102
+  time: '2025-10-21T04:41:02.0000000+00:00'
