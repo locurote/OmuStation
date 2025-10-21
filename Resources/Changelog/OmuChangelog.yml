@@ -831,3 +831,9 @@ Entries:
       message: Adjusted some YAML comments to fit YAML formatting best practices.
   id: 98
   time: '2025-10-21T02:09:03.0000000+00:00'
+- author: CliveOcelot
+  changes:
+    - type: Fix
+      message: 'Fixed Irelander using the incorrect damage type when wielded '
+  id: 99
+  time: '2025-10-21T04:37:13.0000000+00:00'
