@@ -219,6 +219,7 @@ namespace Content.IntegrationTests.Tests
               "Fland",
               "FlandHighPop",
               "Gate",           // Not in pool
+              "Glacier", // OMU
               "Kettle",
               "Lambda",         // Not in pool
               "Lavatest",       //Dev map
@@ -262,6 +263,7 @@ namespace Content.IntegrationTests.Tests
               "Fland",
               "FlandHighPop",
             //"Gate",           // Not in pool
+             "Glacier", // OMU
               "Kettle",
             //"Lambda",         // Not in pool
               "Lavatest",       //Dev map
