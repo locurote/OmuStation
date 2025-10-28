@@ -928,3 +928,13 @@ Entries:
       message: Made the ahelp introduction message less intimidating
   id: 110
   time: '2025-10-27T11:42:41.0000000+00:00'
+- author: ShieldAcrados
+  changes:
+    - type: Add
+      message: Added a new ERT energy weapon and selectable set!
+    - type: Tweak
+      message: Reverted Pulse Carbine nerf
+    - type: Tweak
+      message: Made Pulse Carbine not take 20,000,000 years to recharge
+  id: 111
+  time: '2025-10-28T02:01:44.0000000+00:00'
