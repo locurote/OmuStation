@@ -556,11 +556,11 @@
     soundGunshot:
       path: /Audio/Weapons/Guns/Gunshots/laser3.ogg
   - type: HitscanBatteryAmmoProvider
-    proto: LightPulse # Omu - ERT Rework, takes damage down from over 100 to 75-ish DPS
-    fireCost: 200
+    proto: Pulse 
+    fireCost: 100 # Omu - ERT Hotfix
   - type: AmmoSelector # Goobstation - Start
     prototypes:
-    - LightPulse # Omu - ERT Rework, takes damage down from over 100 to 75-ish DPS
+    - Pulse
     - StunPulse
   - type: UserInterface
     interfaces:
@@ -572,8 +572,8 @@
     verbText: mode-select-verb-text
     key: enum.AmmoSelectorUiKey.Key # Goobstation - End
   - type: Battery
-    maxCharge: 5000
-    startingCharge: 5000
+    maxCharge: 2500 # Omu - ERT Hotfix 
+    startingCharge: 2500 # Omu - ERT Hotfix
   # Goobstation
   - type: Tag
     tags:
